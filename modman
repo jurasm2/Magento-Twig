@@ -1,0 +1,3 @@
+# Mashpress Twig mapping
+app/code/local/Mashpress/Twig		app/code/local/Mashpress/Twig
+app/etc/modules/Mashpress_Twig.xml	app/etc/modules/Mashpress_Twig.xml

@@ -1,0 +1,8 @@
+{
+    "name": "jurasm2/mashpress-twig",
+    "type": "magento-module",
+    "description" : "Twig integration to Magento",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
